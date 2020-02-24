@@ -1,0 +1,31 @@
+    .container {
+        margin-bottom: 100px;
+    }
+    
+    .org-bg {
+        background-color: plum;
+        border-radius: 10px;
+    }
+    
+    .carousel-item {
+        padding: 20px 40px;
+    }
+    
+    .h1 {
+        color: white;
+    }
+    
+    .buy-button {
+        background-image: linear-gradient(to bottom #ff589b 0, #ff135f 100);
+        color: #000099;
+        border: none;
+        border-radius: 8px;
+        padding: 9px 25px;
+        cursor: pointer;
+    }
+    
+    .card {
+        border: none;
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px lightgrey;
+    }
